@@ -29,7 +29,7 @@
 ### Manuscript under review
 
 <ul class="publication-list review-list">
-<li><div class="paper-kind">Under review</div><h3 class="paper-title">Hybrid Mechanistic-Data-Driven Modeling with Multi-Source Sensing for Online Surface Roughness Prediction in Robotic Machining Systems</h3><p class="paper-authors"><strong>Xiangye Zhu</strong>*, Yusen Li*, Xiaohu Xu, Zeyuan Yang, Sijie Yan, and Han Ding</p><p class="paper-venue"><em>Mechanical Systems and Signal Processing</em>. Second-round review following major revision, November 2026.</p><p class="paper-description">A force-driven mechanistic baseline with a Transformer–KAN model that learns residuals from multisensor temporal features.</p><p class="equal-note">* Equal contribution.</p></li>
+<li><div class="paper-kind">Under review</div><h3 class="paper-title">Hybrid Mechanistic-Data-Driven Modeling with Multi-Source Sensing for Online Surface Roughness Prediction in Robotic Machining Systems</h3><p class="paper-authors"><strong>Xiangye Zhu</strong>, Yusen Li, Xiaohu Xu, Zeyuan Yang, Sijie Yan, and Han Ding</p><p class="paper-venue"><em>Mechanical Systems and Signal Processing</em>. Under review.</p><p class="paper-description">A force-driven mechanistic baseline with a Transformer–KAN model that learns residuals from multisensor temporal features.</p></li>
 </ul>
 
 <a class="download-bib" href="assets/publications.bib" download>Download publication list as BibTeX</a>

@@ -19,3 +19,5 @@ Multimodal sensing and sensor fusion · Temporal modeling · Physics-guided lear
 My graduate research combined sensor signal processing, machine learning, and mechanistic modeling. For three studies, I carried out research design, algorithm implementation, experiments, data analysis, and manuscript preparation on an established robotic experimental platform.
 
 <a class="inline-cv" href="assets/Xiangye_Zhu_CV.pdf" target="_blank" rel="noopener">View full curriculum vitae <span>PDF</span></a><a class="editable-cv" href="assets/Xiangye_Zhu_CV.docx" download>Word version</a>
+
+<p><a class="inline-cv" href="assets/Xiangye_Zhu_CV_Chinese.pdf" target="_blank" rel="noopener" lang="zh-CN">中文简历 <span>PDF</span></a><a class="editable-cv" href="assets/Xiangye_Zhu_CV_Chinese.docx" download lang="zh-CN">Word 版本</a></p>
