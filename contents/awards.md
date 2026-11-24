@@ -1,0 +1,3 @@
+- <span class="honor-name">Second Class Postgraduate Scholarship, Wuhan University</span><span class="honor-year">2024</span>
+- <span class="honor-name">National Encouragement Scholarship</span><span class="honor-year">2022</span>
+- <span class="honor-name">Outstanding Student, Wuhan University</span><span class="honor-year">2020, 2021, 2022</span>
